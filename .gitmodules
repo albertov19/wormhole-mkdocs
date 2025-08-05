@@ -1,4 +1,0 @@
-[submodule "wormhole-docs"]
-	path = wormhole-docs
-	url = https://github.com/wormhole-foundation/wormhole-docs
-	branch = dev
