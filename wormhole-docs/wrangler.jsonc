@@ -1,0 +1,7 @@
+{
+  "name": "wormhole-papermoon-test",
+  "compatibility_date": "2025-08-05",
+  "assets": {
+    "directory": "./wormhole-mkdocs/site",
+  }
+}
